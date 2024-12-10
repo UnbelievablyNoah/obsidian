@@ -1,0 +1,43 @@
+:root body.is-translucent:not(.is-fullscreen) .titlebar, .is-translucent:not(.is-fullscreen) .app-container {
+    background: #181825 !important;
+}
+
+:root body {
+    --blockquote-color: rgb(205, 214, 244) !important;
+
+    --inline-title-size: 3em !important; 
+    
+    --inline-title-margin-bottom: 0.2em !important;
+
+    --heading-spacing: calc(var(--p-spacing)* 1.5) !important;
+}
+
+:root a {
+    color: rgba(var(--ctp-red)) !important;
+}
+
+:root .image-embed.is-loaded img[alt*="white"] {
+    background-color: white !important; 
+}
+
+:root .embed-title {
+    color: var(--color-purple) !important;
+    font-weight: calc(var(--font-weight) + var(--bold-modifier) + 100) !important;
+    font-size: calc(var(--font-text-size) + 7px) !important;
+}
+
+:root .cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight, .markdown-rendered mark, .cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight  {
+    padding-left: 6px !important;
+	padding-right: 6px !important;
+	padding-top: 0px !important;
+	padding-bottom: 2px !important;
+	border-radius: 5px !important;
+    background-color: rgba(var(--ctp-yellow), 0.5) !important;
+    color: var(--ctp-text) !important;
+}
+
+/* text highlight */
+::selection {
+    background-color: rgba(var(--ctp-red), 0.2) !important;
+    color: var(--ctp-text) !important;
+}

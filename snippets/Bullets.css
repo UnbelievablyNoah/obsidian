@@ -1,0 +1,41 @@
+:is(.cm-fold-indicator:hover, *) ~ .cm-formatting.cm-formatting-list .list-bullet::after, .list-bullet::after, ol ol > li::marker, ul ol > li::marker, ol ul > li::marker  {
+	content: "↳ ";
+	width: unset;
+	height: unset;
+	background-color: unset;
+	box-shadow: none;
+}
+
+.HyperMD-list-line-1 .cm-formatting.cm-formatting-list .list-bullet::after, .HyperMD-list-line-1 :is(.cm-fold-indicator:hover, *) ~ .cm-formatting.cm-formatting-list .list-bullet::after, div > ul > li > .list-bullet::after {
+	content: "→ ";
+}
+
+.is-collapsed ~ .cm-formatting-list .list-bullet::after, li.is-collapsed .list-bullet::after {
+	color: var(--list-marker-color-collapsed);
+	box-shadow: none;
+	background-color: transparent;
+}
+
+/* Apply custom styles for PDF export */
+@media print {
+    /* Top-level unordered list */
+    ul > li::marker {
+        content: "→ "; /* Use arrow for first-level bullets */
+        font-size: inherit;
+        color: var(--list-marker-color-collapsed);
+    }
+
+    /* Nested unordered lists (second level and deeper) */
+    ul ul > li::marker {
+        content: "↳ "; /* Use bent arrow for nested unordered lists */
+        font-size: inherit;
+        color: var(--list-marker-color-collapsed);
+    }
+
+    /* Nested ordered lists (second level and deeper) */
+    ol ol > li::marker, ul ol > li::marker, ol ul > li::marker {
+        content: "↳ "; /* Use bent arrow for nested ordered lists */
+        font-size: inherit;
+        color: var(--list-marker-color-collapsed);
+    }
+}

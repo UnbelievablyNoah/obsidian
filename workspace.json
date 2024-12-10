@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "e726a62569940b85",
+    "type": "split",
+    "children": [
+      {
+        "id": "67269269c7608df1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b0196a15b4bb199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SNC2D1/Unit 3 Biology/Lesson 5 Organ Systems.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 5 Organ Systems"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f03eda2369d4f6b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bdd3fd7ad800531",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8414305b14f92f13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "File explorer"
+            }
+          },
+          {
+            "id": "3cc089bfa31ff350",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"cssclasses\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d7407145ee8ca040",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c3b6d00bb4e3898",
+    "type": "split",
+    "children": [
+      {
+        "id": "67b9ed6fb6e69834",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eec2ec75682941f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SNC2D1/Unit 3 Biology/Lesson 3 Specialized Plant and Animal Cells.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lesson 3 Specialized Plant and Animal Cells"
+            }
+          },
+          {
+            "id": "060e16af2fa3d6c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SNC2D1/Unit 3 Biology/Lesson 3 Specialized Plant and Animal Cells.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lesson 3 Specialized Plant and Animal Cells"
+            }
+          },
+          {
+            "id": "8fc2e955e2f20d51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SNC2D1/Unit 3 Biology/Lesson 3 Specialized Plant and Animal Cells.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lesson 3 Specialized Plant and Animal Cells"
+            }
+          },
+          {
+            "id": "596238da4f944f5c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a086198c88a4520b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "9b0196a15b4bb199",
+  "lastOpenFiles": [
+    "SNC2D1/Unit 3 Biology/Lesson 6 Interdependent Organ Systems.md",
+    "SNC2D1/Unit 3 Biology/Lesson 5 Organ Systems.md",
+    "SNC2D1/Unit 3 Biology/Lesson 4 Organs in Animals and Plants.md",
+    "SNC2D1/Unit 3 Biology/Lesson 2 Cell Cycle and Division.md",
+    "SNC2D1/Unit 3 Biology/Unit 3 Biology.md",
+    "SNC2D1/Unit 3 Biology/Lesson 3 Specialized Plant and Animal Cells.md",
+    "SNC2D1/Unit 2 Physics/Unit 2 Physics.md",
+    "HRF3O1/HRF3O1.md",
+    "SNC2D1/Unit 3 Biology/Lesson 1b Microscopes.md",
+    "SNC2D1/SNC2D1.md",
+    "SNC2D1/Unit 3 Biology/Lesson 2b Cell Division and Mutations.md",
+    "SBI4U1/Unit 1 Biochemistry/Unit 1 - Biochemistry.md",
+    "SBI4U1/Unit 2 Metabolic Processes/Unit 2 - Metabolic Processes.md",
+    "SBI4U1/Unit 3 Molecular Genetics/Unit 3 - Molecular Genetics.md",
+    "SBI4U1/Unit 4 Homeostasis/Unit 4 - Homostasis.md",
+    "SBI4U1/Unit 5 Population Dynamics/Unit 5 - Population Dynamics.md",
+    "CHC2D1/Unit 1 1914-1929/Unit 1 - 1914-1929.md",
+    "CHC2D1/Unit 2 1929-1945/Unit 2 - 1929-1945.md",
+    "CHC2D1/Unit 3 1945-1982/Unit 3 - 1945-1982.md",
+    "CHC2D1/Unit 4 1982 to the Present/Unit 4 - 1982 to the Present.md",
+    "SBI3U1/Unit 5 Plants Anatomy, Growth, and Function/Unit 5 - Plants Anatomy, Growth, and Function.md",
+    "SBI3U1/Unit 4 Animals Structure and Function/Unit 4 - Animals Structure and Functions.md",
+    "SBI3U1/Unit 3 Genetic Processes/Unit 3 - Genetic Processes.md",
+    "SBI3U1/Unit 2 Evolution/Unit 2 - Evolution.md",
+    "SBI3U1/Unit 1 Diversity of Living Things/Unit 1 - Diversity of Living Things.md",
+    "CHC2D1/CHC2D1.md",
+    "HRF3O1",
+    "Screenshot 2024-12-05 at 10.44.04 AM.png",
+    "Parikh 1.m4a",
+    "Pasted image 20241122115504.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Images/Screenshot 2024-11-19 at 3.53.26 PM.png",
+    "Images",
+    "Images/Screenshot 2024-11-19 at 3.54.25 PM.png",
+    "arrow.right.svg",
+    "ENG2D1/Book Club",
+    "ENG2D1",
+    "ENL2D1",
+    "SBI3U1/Unit 5 Plants Anatomy, Growth, and Function",
+    "SBI3U1/Unit 4 Animals Structure and Function",
+    "SBI3U1/Unit 3 Genetic Processes",
+    "SBI3U1/Unit 2 Evolution",
+    "SNC2D1/SNC2D1 Canvas.canvas",
+    "Canvas.canvas"
+  ]
+}

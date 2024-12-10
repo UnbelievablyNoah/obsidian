@@ -1,0 +1,16 @@
+{
+  "cssTheme": "Catppuccin",
+  "translucency": true,
+  "accentColor": "#f38ba8",
+  "interfaceFontFamily": "SF Pro Display",
+  "textFontFamily": "SF Pro Text",
+  "monospaceFontFamily": "SF Pro Rounded",
+  "enabledCssSnippets": [
+    "Bullets",
+    "colour",
+    "Colour",
+    "Noah Shit",
+    "BulletsPDF",
+    "folder icons"
+  ]
+}
