@@ -41,3 +41,7 @@
     background-color: rgba(var(--ctp-red), 0.2) !important;
     color: var(--ctp-text) !important;
 }
+
+:root b, strong, .cm-strong, .cm-s-obsidian span.cm-formatting-strong, .cm-s-obsidian span.cm-strong {
+    font-weight: calc(var(--font-weight) + var(--bold-modifier) + 100);
+}

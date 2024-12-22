@@ -10,5 +10,6 @@
   },
   "propertiesInDocument": "visible",
   "showRibbon": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "spellcheck": false
 }

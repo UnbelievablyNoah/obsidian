@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SNC2D1/Unit 3 Biology/Lesson 5 Organ Systems.md",
+                "file": "SNC2D1/Unit 3 Biology/Lesson 1 Introduction to Cells.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 5 Organ Systems"
+              "title": "Lesson 1 Introduction to Cells"
             }
           }
         ]
@@ -43,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "File explorer"
+              "title": "Files"
             }
           },
           {
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SNC2D1/Unit 3 Biology/Lesson 3 Specialized Plant and Animal Cells.md",
+                "file": "SNC2D1/Unit 3 Biology/Lesson 4 Organs in Animals and Plants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lesson 3 Specialized Plant and Animal Cells"
+              "title": "Backlinks for Lesson 4 Organs in Animals and Plants"
             }
           },
           {
@@ -177,17 +177,22 @@
   },
   "active": "9b0196a15b4bb199",
   "lastOpenFiles": [
-    "SNC2D1/Unit 3 Biology/Lesson 6 Interdependent Organ Systems.md",
-    "SNC2D1/Unit 3 Biology/Lesson 5 Organ Systems.md",
-    "SNC2D1/Unit 3 Biology/Lesson 4 Organs in Animals and Plants.md",
     "SNC2D1/Unit 3 Biology/Lesson 2 Cell Cycle and Division.md",
-    "SNC2D1/Unit 3 Biology/Unit 3 Biology.md",
-    "SNC2D1/Unit 3 Biology/Lesson 3 Specialized Plant and Animal Cells.md",
-    "SNC2D1/Unit 2 Physics/Unit 2 Physics.md",
-    "HRF3O1/HRF3O1.md",
-    "SNC2D1/Unit 3 Biology/Lesson 1b Microscopes.md",
     "SNC2D1/SNC2D1.md",
     "SNC2D1/Unit 3 Biology/Lesson 2b Cell Division and Mutations.md",
+    "SNC2D1/Unit 3 Biology/Lesson 3 Specialized Plant and Animal Cells.md",
+    "SNC2D1/Unit 3 Biology/Lesson 4 Organs in Animals and Plants.md",
+    "SNC2D1/Unit 3 Biology/Lesson 5 Organ Systems.md",
+    "SNC2D1/Unit 3 Biology/Lesson 6 Interdependent Organ Systems.md",
+    "SNC2D1/Unit 4 Environmental Sciences/Unit 4 Environmental Sciences.md",
+    "SNC2D1/Unit 4 Environmental Sciences",
+    "SNC2D1/Unit 4 Earth and Space/Unit 4 Environmental Sciences.md",
+    "SNC2D1/Unit 4 Earth and Space/Unit 4 Earth and Space.md",
+    "SNC2D1/Unit 3 Biology/Lesson 1 Introduction to Cells.md",
+    "SNC2D1/Unit 3 Biology/Lesson 1b Microscopes.md",
+    "SNC2D1/Unit 3 Biology/Unit 3 Biology.md",
+    "SNC2D1/Unit 2 Physics/Unit 2 Physics.md",
+    "HRF3O1/HRF3O1.md",
     "SBI4U1/Unit 1 Biochemistry/Unit 1 - Biochemistry.md",
     "SBI4U1/Unit 2 Metabolic Processes/Unit 2 - Metabolic Processes.md",
     "SBI4U1/Unit 3 Molecular Genetics/Unit 3 - Molecular Genetics.md",
@@ -199,10 +204,6 @@
     "CHC2D1/Unit 4 1982 to the Present/Unit 4 - 1982 to the Present.md",
     "SBI3U1/Unit 5 Plants Anatomy, Growth, and Function/Unit 5 - Plants Anatomy, Growth, and Function.md",
     "SBI3U1/Unit 4 Animals Structure and Function/Unit 4 - Animals Structure and Functions.md",
-    "SBI3U1/Unit 3 Genetic Processes/Unit 3 - Genetic Processes.md",
-    "SBI3U1/Unit 2 Evolution/Unit 2 - Evolution.md",
-    "SBI3U1/Unit 1 Diversity of Living Things/Unit 1 - Diversity of Living Things.md",
-    "CHC2D1/CHC2D1.md",
     "HRF3O1",
     "Screenshot 2024-12-05 at 10.44.04 AM.png",
     "Parikh 1.m4a",
@@ -219,7 +220,6 @@
     "SBI3U1/Unit 5 Plants Anatomy, Growth, and Function",
     "SBI3U1/Unit 4 Animals Structure and Function",
     "SBI3U1/Unit 3 Genetic Processes",
-    "SBI3U1/Unit 2 Evolution",
     "SNC2D1/SNC2D1 Canvas.canvas",
     "Canvas.canvas"
   ]

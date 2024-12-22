@@ -106,5 +106,13 @@
       ],
       "key": "P"
     }
+  ],
+  "app:reload": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }
