@@ -1,0 +1,65 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "off",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": true,
+  "minimalFolderIcons": false,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 150,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "-IMG": {
+      "icon": "lucide-images",
+      "unsynced": [
+        "68bc0bd72c961921"
+      ],
+      "color": "red"
+    },
+    "SNC2D1": {
+      "color": "orange",
+      "unsynced": [
+        "68bc0bd72c961921"
+      ]
+    },
+    "SNC2D1/Unit 1 Chemistry": {
+      "icon": "lucide-beaker",
+      "unsynced": [
+        "68bc0bd72c961921"
+      ],
+      "color": "orange"
+    },
+    "SNC2D1/Unit 2 Physics": {
+      "icon": "lucide-atom",
+      "unsynced": [
+        "68bc0bd72c961921"
+      ],
+      "color": "orange"
+    },
+    "SNC2D1/Unit 3 Biology": {
+      "icon": "lucide-dna",
+      "unsynced": [
+        "68bc0bd72c961921"
+      ],
+      "color": "orange"
+    },
+    "SNC2D1/Unit 4 Environmental Sciences": {
+      "icon": "lucide-earth",
+      "unsynced": [
+        "68bc0bd72c961921"
+      ],
+      "color": "orange"
+    }
+  },
+  "bookmarkIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {}
+}

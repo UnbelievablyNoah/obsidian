@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bf24d438aaa7b2e5",
+        "id": "9108b3020c1bf548",
         "type": "tabs",
         "children": [
           {
-            "id": "c211a0cb74e67095",
+            "id": "8a7fab0f038b0a82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CGG3O1/CGG3O1.md",
-                "mode": "source",
+                "file": "HSP3U1/Unit 2 Anthropology/Lesson 2 Paleoanthropology.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CGG3O1"
+              "title": "Lesson 2 Paleoanthropology"
             }
           }
         ]
@@ -40,10 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "File explorer"
             }
           },
           {
@@ -52,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"cssclasses\"]",
+                "query": "tag:#Caste",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SNC2D1/Unit 3 Biology/Lesson 4 Organs in Animals and Plants.md",
+                "file": "CHC2D1/CHC2D1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lesson 4 Organs in Animals and Plants"
+              "title": "Backlinks for CHC2D1"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SNC2D1/Unit 3 Biology/Lesson 3 Specialized Plant and Animal Cells.md",
+                "file": "CHC2D1/CHC2D1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lesson 3 Specialized Plant and Animal Cells"
+              "title": "Outgoing links from CHC2D1"
             }
           },
           {
@@ -126,10 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SNC2D1/Unit 3 Biology/Lesson 3 Specialized Plant and Animal Cells.md"
+                "file": "CHC2D1/CHC2D1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lesson 3 Specialized Plant and Animal Cells"
+              "title": "Outline of CHC2D1"
             }
           },
           {
@@ -153,13 +157,16 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -170,55 +177,57 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "c211a0cb74e67095",
+  "active": "8a7fab0f038b0a82",
   "lastOpenFiles": [
-    "SNC2D1/Unit 4 Environmental Sciences/Unit 4 Environmental Sciences.md",
-    "SNC2D1/Unit 3 Biology/Lesson 2b Cell Division and Mutations.md",
-    "SNC2D1/Unit 3 Biology/Lesson 3 Specialized Plant and Animal Cells.md",
-    "SNC2D1/Unit 3 Biology/Unit 3 Biology.md",
-    "SNC2D1/Unit 3 Biology/Lesson 1 Introduction to Cells.md",
-    "SNC2D1/Unit 3 Biology/Lesson 2 Cell Cycle and Division.md",
-    "SNC2D1/SNC2D1.md",
-    "SNC2D1/Unit 3 Biology/Lesson 4 Organs in Animals and Plants.md",
-    "SNC2D1/Unit 3 Biology/Lesson 5 Organ Systems.md",
-    "SNC2D1/Unit 3 Biology/Lesson 6 Interdependent Organ Systems.md",
-    "SNC2D1/Unit 4 Environmental Sciences",
-    "SNC2D1/Unit 4 Earth and Space/Unit 4 Environmental Sciences.md",
-    "SNC2D1/Unit 4 Earth and Space/Unit 4 Earth and Space.md",
-    "SNC2D1/Unit 3 Biology/Lesson 1b Microscopes.md",
-    "SNC2D1/Unit 2 Physics/Unit 2 Physics.md",
-    "HRF3O1/HRF3O1.md",
-    "SBI4U1/Unit 1 Biochemistry/Unit 1 - Biochemistry.md",
-    "SBI4U1/Unit 2 Metabolic Processes/Unit 2 - Metabolic Processes.md",
-    "SBI4U1/Unit 3 Molecular Genetics/Unit 3 - Molecular Genetics.md",
-    "SBI4U1/Unit 4 Homeostasis/Unit 4 - Homostasis.md",
-    "SBI4U1/Unit 5 Population Dynamics/Unit 5 - Population Dynamics.md",
-    "CHC2D1/Unit 1 1914-1929/Unit 1 - 1914-1929.md",
-    "CHC2D1/Unit 2 1929-1945/Unit 2 - 1929-1945.md",
-    "CHC2D1/Unit 3 1945-1982/Unit 3 - 1945-1982.md",
-    "CHC2D1/Unit 4 1982 to the Present/Unit 4 - 1982 to the Present.md",
-    "SBI3U1/Unit 5 Plants Anatomy, Growth, and Function/Unit 5 - Plants Anatomy, Growth, and Function.md",
-    "SBI3U1/Unit 4 Animals Structure and Function/Unit 4 - Animals Structure and Functions.md",
-    "HRF3O1",
-    "Screenshot 2024-12-05 at 10.44.04 AM.png",
-    "Parikh 1.m4a",
-    "Pasted image 20241122115504.png",
-    "Untitled.canvas",
+    "CHC2D1/Unit 2 1982 to the Present/Lesson 6 Charter of Rights and Freedoms.md",
+    "CHC2D1/Unit 2 1982 to the Present/Lesson 5 Constitution and Quebec.md",
+    "Untitled",
+    "HSP3U1/Unit 2 Anthropology/Lesson 2 Paleoanthropology.md",
+    "HSP3U1/Unit 1 Research and Inquiry Skills/Unit 1 Research and Inquiry Skills.md",
+    "CHC2D1/Unit 2 1982 to the Present/Lesson 4 NAFTA.md",
+    "CHC2D1/Unit 2 1982 to the Present/Lesson 1 Technology Continuity and Change.md",
+    "-SRC/HSP3U1/Map of Africa Discoveries.png",
+    "-SRC/HSP3U1",
+    "HSP3U1/Unit 2 Anthropology/Lesson 1 Introduction to Anthropology.md",
+    "HSP3U1/Unit 2 Anthropology/Unit 2 Anthropology.md",
+    "CHC2D1/Unit 2 1982 to the Present/Unit 2 Canada, 1982 to the Present.md",
+    "HSP3U1/Unit 1 Research and Inquiry Skills/Social Science Research Model.md",
+    "HRF3O1/Unit 1 Hinduism/Lesson 3 Caste System.md",
+    "CHC2D1/Unit 1 Course Introduction/Lesson 1 Thinking Concepts.md",
+    "HRF3O1/Unit 1 Hinduism/Lesson 2 Hindu Gods.md",
+    "CHC2D1/Unit 2 1982 to the Present/Lesson 2 Canadian & National Identity.md",
+    "CHC2D1/Unit 2 1982 to the Present/Lesson 3 Canada's Role in the World & Globalization.md",
+    "HSP3U1/Unit 1 Research and Inquiry Skills/Untitled.md",
+    "HRF3O1/Unit 1 Hinduism/Lesson 1 Introduction to Hinduism.md",
+    "HRF3O1/Unit 1 Hinduism/Unit 1 Hinduism.md",
+    "HRF3O1/Intruduction to Religion/Introduction to Religion.md",
+    "HSP3U1/HSP3U1.md",
+    "HSP3U1/Unit 1 Research and Inquiry Skills/Scale Examples.pdf",
+    "CHC2D1/Unit 1 Course Introduction/Unit 1 Course Introduction.md",
+    "CHC2D1/Unit 5 1914-1929/Unit 5 Canada, 1914-1929.md",
+    "HSP3U1/Unit 4 Sociology/Unit 4 Sociology.md",
+    "CHC2D1/Unit 3 1945-1982/Unit 3 Canada, 1945-1982.md",
+    "CHC2D1/Unit 4 1929-1945/Unit 4 Canada, 1929-1945.md",
+    "CHC2D1/CHC2D1.md",
     "Untitled 1.canvas",
+    "Untitled.canvas",
+    "HRF3O1/Unit 1 Hinduism",
+    "HRF3O1/Unit 1 Hinduism",
+    "CHC2D1/Unit 1 Course Introduction",
+    "HSP3U1/Unit 4 Sociology",
+    "HSP3U1/Unit 3 Psychology",
+    "HSP3U1/Unit 2 Anthropology",
+    "HSP3U1/Unit 1 Research and Inquiry Skills",
+    "-SRC/SNC2D1/Eyeball-Diagram.png",
+    "-SRC/SNC2D1/Levels-of-Organization-in-Biology.png",
+    "Screenshot 2024-12-05 at 10.44.04 AM.png",
+    "Pasted image 20241122115504.png",
     "Images/Screenshot 2024-11-19 at 3.53.26 PM.png",
-    "Images",
     "Images/Screenshot 2024-11-19 at 3.54.25 PM.png",
     "arrow.right.svg",
-    "ENG2D1/Book Club",
-    "ENG2D1",
-    "ENL2D1",
-    "SBI3U1/Unit 5 Plants Anatomy, Growth, and Function",
-    "SBI3U1/Unit 4 Animals Structure and Function",
-    "SBI3U1/Unit 3 Genetic Processes",
     "SNC2D1/SNC2D1 Canvas.canvas",
     "Canvas.canvas"
   ]

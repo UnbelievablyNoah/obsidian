@@ -6,7 +6,7 @@
 	box-shadow: none;
 }
 
-.HyperMD-list-line-1 .cm-formatting.cm-formatting-list .list-bullet::after, .HyperMD-list-line-1 :is(.cm-fold-indicator:hover, *) ~ .cm-formatting.cm-formatting-list .list-bullet::after, div > ul > li > .list-bullet::after {
+.HyperMD-list-line-1 .cm-formatting.cm-formatting-list .list-bullet::after, .HyperMD-list-line-1 :is(.cm-fold-indicator:hover, *) ~ .cm-formatting.cm-formatting-list .list-bullet::after, div > ul > li > .list-bullet::after, ol > li::marker, ul > li::marker {
 	content: "→ ";
 }
 
