@@ -1,0 +1,10 @@
+body:not(.is-grabbing) .tree-item-self.is-active:hover, .tree-item-self.is-active {
+    color: rgb(var(--ctp-mantle)) !important;
+}
+
+@media (hover: hover) {
+    body:not(.is-grabbing) .tree-item-self.is-clickable:hover {
+            color: rgb(var(--ctp-base)) !important;
+            background: rgba(var(--ctp-accent), 0.95) !important;
+    }
+}

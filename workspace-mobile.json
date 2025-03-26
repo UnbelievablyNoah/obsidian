@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HRF3O1/HRF3O1.md",
+                "file": "HRF3O1/Unit 2 Buddhism/Lesson 1 Introduction to Buddhism.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HRF3O1"
+              "title": "Lesson 1 Introduction to Buddhism"
             }
           }
         ]
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SNC2D1/Unit 4 Environmental Sciences/Lesson 1 Weather vs Climate.md",
+            "file": "HRF3O1/Unit 2 Buddhism/Lesson 1 Introduction to Buddhism.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,13 +154,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "system3-relay:Relay": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "04a32be77760f4a1",
+  "active": "bbafcc108ff8cfeb",
   "lastOpenFiles": [
+    "HRF3O1/Unit 2 Buddhism/Lesson 2 Sects of Buddhism.md",
+    "HRF3O1/Unit 2 Buddhism/Lesson 3 Central Texts of Buddhism.md",
+    "HRF3O1/Unit 2 Buddhism/Unit 2 Buddhism.md",
+    "HRF3O1/Unit 2 Buddhism/Lesson 4 Symbols.md",
+    "HRF3O1/Unit 2 Buddhism/Lesson 1 Introduction to Buddhism.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 6 Linguistic Anthropology.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 5 Ethnology.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 9 Rites of Passage.md",
+    "HSP3U1/Unit 2 Anthropology/Unit 2 Anthropology.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 3 Primatology.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 7 Archaeology.md",
+    "HRF3O1/HRF3O1.md",
     "SNC2D1/Unit 2 Physics/Lesson 5 Light Rays and Mirrors.md",
     "SNC2D1/SNC2D1 - Exam Preparation.md",
     "SNC2D1/Unit 4 Environmental Sciences/Lesson 1 Weather vs Climate.md",
@@ -174,21 +187,9 @@
     "CHC2D1/CHC2D1.md",
     "CHY4U1/CHY4U1.md",
     "CHW3M1/CHW3M1.md",
-    "HRF3O1/HRF3O1.md",
     "HSB4U1/HSB4U1.md",
-    "HSP3U1/HSP3U1.md",
-    "SNC2D1/Unit 4 Environmental Sciences/Unit 4 Environmental Sciences.md",
     "HSP3U1",
-    "SNC2D1/Unit 3 Biology/Lesson 5 Organ Systems.md",
-    "SNC2D1/Unit 3 Biology/Lesson 6 Interdependent Organ Systems.md",
-    "SNC2D1/Unit 3 Biology/Lesson 4 Organs in Animals and Plants.md",
-    "SNC2D1/Unit 3 Biology/Lesson 3 Specialized Plant and Animal Cells.md",
-    "SNC2D1/Unit 3 Biology/Lesson 2 Cell Cycle and Division.md",
-    "SNC2D1/Unit 3 Biology/Lesson 2b Cell Division and Mutations.md",
-    "SNC2D1/Unit 3 Biology/Lesson 1 Introduction to Cells.md",
-    "SNC2D1/Unit 3 Biology/Unit 3 Biology.md",
     "SNC2D1/SNC2D1 Canvas.canvas",
-    "SNC2D1/Unit 2 Physics/Lesson 1 Energy in a Wave.md",
     "SNC2D1"
   ]
 }

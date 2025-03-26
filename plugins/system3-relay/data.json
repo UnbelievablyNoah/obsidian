@@ -1,0 +1,29 @@
+{
+  "release": {
+    "channel": "stable",
+    "automaticUpdates": false
+  },
+  "sharedFolders": [
+    {
+      "guid": "b36df94f-40fd-4abd-8092-c65262088036",
+      "path": "HSP3U1",
+      "relay": "384c3576-351d-4f5a-93b0-88d6016f856a"
+    }
+  ],
+  "enableUpdateYDocFromDiskBuffer": false,
+  "enableDocumentStatus": false,
+  "enableDebugFileTag": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableHTTPSync": false,
+  "enableSyncMenu": true,
+  "enableDocumentServer": false,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableSyncModal": false,
+  "enableDesyncPill": false,
+  "enableAutomaticUpdatesOption": false,
+  "debugging": false,
+  "enableDownloadOnAddToVault": false,
+  "enableUploadOnShare": false
+}

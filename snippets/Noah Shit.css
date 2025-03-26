@@ -8,6 +8,7 @@
     --inline-title-margin-bottom: 0.2em !important;
     --heading-spacing: calc(var(--p-spacing)* 1.5) !important;
     --file-line-width: 900px !important;
+    --tab-width: 250px !important;
 }
 
 :root a {
@@ -22,16 +23,6 @@
     color: var(--color-purple) !important;
     font-weight: calc(var(--font-weight) + var(--bold-modifier) + 100) !important;
     font-size: calc(var(--font-text-size) + 20px) !important;
-}
-
-:root .cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight, .markdown-rendered mark, .cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight  {
-    padding-left: 6px !important;
-	padding-right: 6px !important;
-	padding-top: 0px !important;
-	padding-bottom: 2px !important;
-	border-radius: 5px !important;
-    background-color: rgba(var(--ctp-yellow), 0.5) !important;
-    color: var(--ctp-text) !important;
 }
 
 /* text highlight */
@@ -76,4 +67,35 @@
 
 .footnote-link {
     transition: 2s !important
+}
+
+.timeline.body-2 .title {
+    background-color: rgb(var(--ctp-surface0));
+}
+
+.timeline::before {
+    border-radius: 25px;
+}
+
+.timeline .description {
+    margin-bottom: 3em;
+}
+
+.nav-file-tag {
+    background-color: var(--text-accent);
+    color: rgb(var(--ctp-base));
+    border-color: rgb(var(--ctp-base));
+}
+
+.system3-banner {
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+u {
+    color: rgb(var(--ctp-mauve))
+}
+
+.system3-folder-icons.svelte-1siabfk {
+    background-color: rgb(var(--ctp-surface0)) !important;
 }

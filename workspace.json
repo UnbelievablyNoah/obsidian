@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9108b3020c1bf548",
+        "id": "5abc46c71bae2b71",
         "type": "tabs",
         "children": [
           {
-            "id": "8a7fab0f038b0a82",
+            "id": "225408ef5554095b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HSP3U1/Unit 2 Anthropology/Lesson 2 Paleoanthropology.md",
+                "file": "HSP3U1/Unit 3 Psychology/Lesson 1 Introduction to Psychology.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 2 Paleoanthropology"
+              "title": "Lesson 1 Introduction to Psychology"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Caste",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHC2D1/CHC2D1.md",
+                "file": "HSP3U1/Unit 2 Anthropology/Lesson 2 Paleoanthropology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CHC2D1"
+              "title": "Backlinks for Lesson 2 Paleoanthropology"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHC2D1/CHC2D1.md",
+                "file": "HSP3U1/Unit 2 Anthropology/Lesson 2 Paleoanthropology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CHC2D1"
+              "title": "Outgoing links from Lesson 2 Paleoanthropology"
             }
           },
           {
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHC2D1/CHC2D1.md",
+                "file": "HSP3U1/Unit 2 Anthropology/Lesson 2 Paleoanthropology.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CHC2D1"
+              "title": "Outline of Lesson 2 Paleoanthropology"
             }
           },
           {
@@ -166,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -177,41 +177,45 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "system3-relay:Relay": false
     }
   },
-  "active": "8a7fab0f038b0a82",
+  "active": "225408ef5554095b",
   "lastOpenFiles": [
-    "CHC2D1/Unit 2 1982 to the Present/Lesson 6 Charter of Rights and Freedoms.md",
-    "CHC2D1/Unit 2 1982 to the Present/Lesson 5 Constitution and Quebec.md",
-    "Untitled",
-    "HSP3U1/Unit 2 Anthropology/Lesson 2 Paleoanthropology.md",
-    "HSP3U1/Unit 1 Research and Inquiry Skills/Unit 1 Research and Inquiry Skills.md",
-    "CHC2D1/Unit 2 1982 to the Present/Lesson 4 NAFTA.md",
-    "CHC2D1/Unit 2 1982 to the Present/Lesson 1 Technology Continuity and Change.md",
-    "-SRC/HSP3U1/Map of Africa Discoveries.png",
-    "-SRC/HSP3U1",
+    "ENG2D1/ENG2D1 - Exam Review.md",
+    "HSP3U1/Unit 3 Psychology/Lesson 1 Introduction to Psychology.md",
     "HSP3U1/Unit 2 Anthropology/Lesson 1 Introduction to Anthropology.md",
-    "HSP3U1/Unit 2 Anthropology/Unit 2 Anthropology.md",
-    "CHC2D1/Unit 2 1982 to the Present/Unit 2 Canada, 1982 to the Present.md",
+    "HSP3U1/Unit 3 Psychology/Lesson 2 Psychoanalytic Theory.md",
+    "HSP3U1/Unit 3 Psychology/Unit 3 Psychology.md",
+    "HSP3U1/Unit 1 Research and Inquiry Skills/Unit 1 Research and Inquiry Skills.md",
     "HSP3U1/Unit 1 Research and Inquiry Skills/Social Science Research Model.md",
-    "HRF3O1/Unit 1 Hinduism/Lesson 3 Caste System.md",
-    "CHC2D1/Unit 1 Course Introduction/Lesson 1 Thinking Concepts.md",
-    "HRF3O1/Unit 1 Hinduism/Lesson 2 Hindu Gods.md",
-    "CHC2D1/Unit 2 1982 to the Present/Lesson 2 Canadian & National Identity.md",
-    "CHC2D1/Unit 2 1982 to the Present/Lesson 3 Canada's Role in the World & Globalization.md",
-    "HSP3U1/Unit 1 Research and Inquiry Skills/Untitled.md",
-    "HRF3O1/Unit 1 Hinduism/Lesson 1 Introduction to Hinduism.md",
-    "HRF3O1/Unit 1 Hinduism/Unit 1 Hinduism.md",
-    "HRF3O1/Intruduction to Religion/Introduction to Religion.md",
-    "HSP3U1/HSP3U1.md",
+    "HSP3U1/Unit 2 Anthropology/Unit Test Review Sheet.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 10 Gender and Culture.md",
+    "HSP3U1/Unit 2 Anthropology/Unit 2 Anthropology.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 9 Rites of Passage.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 8 Cultural Anthropology.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 7 Archaeology.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 6 Linguistic Anthropology.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 5 Ethnology.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 4 Human Variation.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 3 Primatology.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 2 Paleoanthropology.md",
+    "HRF3O1/Unit 2 Buddhism/Lesson 1 Introduction to Buddhism.md",
+    "HRF3O1/Unit 2 Buddhism/Lesson 2 Sects of Buddhism.md",
+    "HRF3O1/Unit 3 Judaism/Lesson 1 Jewish beliefs and teaching.md",
+    "HRF3O1/Unit 3 Judaism/Lesson 1 Zoroastrianism.md",
+    "HRF3O1/Unit 3 Judaism/Unit 3 Judaism.md",
+    "HRF3O1/Unit 3 Judaism",
     "HSP3U1/Unit 1 Research and Inquiry Skills/Scale Examples.pdf",
-    "CHC2D1/Unit 1 Course Introduction/Unit 1 Course Introduction.md",
-    "CHC2D1/Unit 5 1914-1929/Unit 5 Canada, 1914-1929.md",
-    "HSP3U1/Unit 4 Sociology/Unit 4 Sociology.md",
-    "CHC2D1/Unit 3 1945-1982/Unit 3 Canada, 1945-1982.md",
-    "CHC2D1/Unit 4 1929-1945/Unit 4 Canada, 1929-1945.md",
-    "CHC2D1/CHC2D1.md",
+    "HRF3O1/Unit 2 Buddhism/Lesson 4 Symbols.md",
+    "HRF3O1/Unit 2 Buddhism/Unit 2 Buddhism.md",
+    "HRF3O1/Unit 2 Buddhism/Lesson 3 Central Texts of Buddhism.md",
+    "HSP3U1/Img/Types of stones.png",
+    "HSP3U1/Img/Map of Africa Discoveries.png",
+    "HRF3O1/Unit 2 Buddhism",
+    "HSP3U1/Img",
+    "HSP3U1/Img",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "HRF3O1/Unit 1 Hinduism",
@@ -219,8 +223,6 @@
     "CHC2D1/Unit 1 Course Introduction",
     "HSP3U1/Unit 4 Sociology",
     "HSP3U1/Unit 3 Psychology",
-    "HSP3U1/Unit 2 Anthropology",
-    "HSP3U1/Unit 1 Research and Inquiry Skills",
     "-SRC/SNC2D1/Eyeball-Diagram.png",
     "-SRC/SNC2D1/Levels-of-Organization-in-Biology.png",
     "Screenshot 2024-12-05 at 10.44.04 AM.png",

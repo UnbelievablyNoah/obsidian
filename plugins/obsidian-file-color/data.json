@@ -1,0 +1,94 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "gSwLEnq8xBf6YCkMew5rC",
+      "name": "Rosewater",
+      "value": "#f5e0dc"
+    },
+    {
+      "id": "NAA0dUO1gQ4ZhDrFAx5aM",
+      "name": "Flamingo",
+      "value": "#f2cdcd"
+    },
+    {
+      "id": "fZoiIrKmF7qn52X1QeGMP",
+      "name": "Pink",
+      "value": "#f5c2e7"
+    },
+    {
+      "id": "sTkkokHQDHQU0IByKUpl3",
+      "name": "Mauve",
+      "value": "#cba6f7"
+    },
+    {
+      "id": "H4DorWQ0Z4HqWYO2g0Sy8",
+      "name": "Red",
+      "value": "#f38ba8"
+    },
+    {
+      "id": "yUJG_I6qU3_jmNFgGU9jB",
+      "name": "Maroon",
+      "value": "#eba0ad"
+    },
+    {
+      "id": "9nk3P_DrPW7YytO9lYD0V",
+      "name": "Peach",
+      "value": "#fab387"
+    },
+    {
+      "id": "ZR7a0u39GjexYVXSwEV8h",
+      "name": "Yellow",
+      "value": "#f9e2af"
+    },
+    {
+      "id": "eK4MVbb46O6CeKZ2Fww-y",
+      "name": "Green",
+      "value": "#a6e3a1"
+    },
+    {
+      "id": "iT6cK1XlfC3bwPX08_ru8",
+      "name": "Teal",
+      "value": "#95e2d5"
+    },
+    {
+      "id": "kzByUy389kg-LuIHhFxr9",
+      "name": "Sky",
+      "value": "#89dceb"
+    },
+    {
+      "id": "7mrAw9UpkzY6nw6W8gWq5",
+      "name": "Sapphire",
+      "value": "#74c7ec"
+    },
+    {
+      "id": "S067w2iRwcTgSmmepUShA",
+      "name": "Blue",
+      "value": "#89b4fa"
+    },
+    {
+      "id": "qXb8X5WCiqfaD6xM8hxJL",
+      "name": "Lavender",
+      "value": "#b4befe"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "HSP3U1",
+      "color": "iT6cK1XlfC3bwPX08_ru8"
+    },
+    {
+      "path": "HRF3O1",
+      "color": "eK4MVbb46O6CeKZ2Fww-y"
+    },
+    {
+      "path": "CHC2D1",
+      "color": "S067w2iRwcTgSmmepUShA"
+    },
+    {
+      "path": "SNC2D1",
+      "color": "9nk3P_DrPW7YytO9lYD0V"
+    }
+  ]
+}
