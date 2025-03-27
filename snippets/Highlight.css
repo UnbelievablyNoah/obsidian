@@ -6,7 +6,7 @@
     font-weight: calc(var(--font-weight) + 125) !important;
 }
 
-.cm-s-obsidian span.cm-highlight.cm-em, .cm-s-obsidian span.cm-highlight.cm-strong {
+.cm-s-obsidian span.cm-highlight.cm-em, .cm-s-obsidian span.cm-highlight.cm-strong, strong {
     background-color: transparent !important;
 }
 

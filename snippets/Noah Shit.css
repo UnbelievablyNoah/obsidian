@@ -99,3 +99,7 @@ u {
 .system3-folder-icons.svelte-1siabfk {
     background-color: rgb(var(--ctp-surface0)) !important;
 }
+
+.modal.mod-plugin-debug .startup-desc {
+    color: rgb(var(--ctp-subtext0));
+}
