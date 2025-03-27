@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HSP3U1/Unit 3 Psychology/Lesson 1 Introduction to Psychology.md",
+                "file": "HSP3U1/Unit 3 Psychology/Lesson 2 Psychoanalytical Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 1 Introduction to Psychology"
+              "title": "Lesson 2 Psychoanalytical Theory"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HSP3U1/Unit 2 Anthropology/Lesson 2 Paleoanthropology.md",
+                "file": "HSP3U1/Unit 3 Psychology/Lesson 2 Psychoanalytical Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lesson 2 Paleoanthropology"
+              "title": "Backlinks for Lesson 2 Psychoanalytical Theory"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HSP3U1/Unit 2 Anthropology/Lesson 2 Paleoanthropology.md",
+                "file": "HSP3U1/Unit 3 Psychology/Lesson 2 Psychoanalytical Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lesson 2 Paleoanthropology"
+              "title": "Outgoing links from Lesson 2 Psychoanalytical Theory"
             }
           },
           {
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HSP3U1/Unit 2 Anthropology/Lesson 2 Paleoanthropology.md",
+                "file": "HSP3U1/Unit 3 Psychology/Lesson 2 Psychoanalytical Theory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lesson 2 Paleoanthropology"
+              "title": "Outline of Lesson 2 Psychoanalytical Theory"
             }
           },
           {
@@ -165,8 +165,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,29 +182,29 @@
   },
   "active": "54aafa94146960d8",
   "lastOpenFiles": [
-    "HSP3U1/Unit 3 Psychology/Lesson 2 Psychoanalytical Theory.md",
     "HSP3U1/Unit 3 Psychology/Lesson 1 Introduction to Psychology.md",
-    "HRF3O1/Unit 3 Judaism/Lesson 2 Early History of Judaism.md",
-    "HRF3O1/Unit 3 Judaism/Lesson 3 Sacred Text.md",
-    "HSP3U1/Unit 2 Anthropology/Lesson 10 Gender and Culture.md",
-    "HSP3U1/Unit 2 Anthropology/Unit 2 Anthropology.md",
-    "HSP3U1/Unit 2 Anthropology/Unit Test Review Sheet.md",
-    "HSP3U1/Unit 2 Anthropology/Lesson 7 Archaeology.md",
-    "HSP3U1/Unit 2 Anthropology/Lesson 1 Introduction to Anthropology.md",
-    "HSP3U1/Unit 1 Research and Inquiry Skills/Unit 1 Research and Inquiry Skills.md",
-    "HSP3U1/Img/Metalheads.md",
-    "HSP3U1/Unit 2 Anthropology/Lesson 6 Linguistic Anthropology.md",
-    "HSP3U1/Img/Iceberg.png",
     "HSP3U1/Unit 3 Psychology/Unit 3 Psychology.md",
-    "HSP3U1/Unit 3 Psychology/Lesson 2 Psychodymanic Theory.md",
-    "HSP3U1/Unit 3 Psychology/Lesson 2 Psychoanalytic Theory.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 2 Paleoanthropology.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 1 Introduction to Anthropology.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 3 Primatology.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 4 Human Variation.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 5 Ethnology.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 6 Linguistic Anthropology.md",
     "HSP3U1/Unit 2 Anthropology/Lesson 8 Cultural Anthropology.md",
     "HSP3U1/Unit 2 Anthropology/Lesson 9 Rites of Passage.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 10 Gender and Culture.md",
+    "HSP3U1/Unit 2 Anthropology/Unit Test Review Sheet.md",
+    "HSP3U1/Unit 2 Anthropology/Unit 2 Anthropology.md",
+    "HSP3U1/Unit 3 Psychology/Lesson 2 Psychoanalytical Theory.md",
+    "HRF3O1/Unit 3 Judaism/Lesson 2 Early History of Judaism.md",
+    "HRF3O1/Unit 3 Judaism/Lesson 3 Sacred Text.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 7 Archaeology.md",
+    "HSP3U1/Unit 1 Research and Inquiry Skills/Unit 1 Research and Inquiry Skills.md",
+    "HSP3U1/Img/Metalheads.md",
+    "HSP3U1/Img/Iceberg.png",
+    "HSP3U1/Unit 3 Psychology/Lesson 2 Psychodymanic Theory.md",
+    "HSP3U1/Unit 3 Psychology/Lesson 2 Psychoanalytic Theory.md",
     "HSP3U1/Unit 2 Anthropology/Untitled.md",
-    "HSP3U1/Unit 2 Anthropology/Lesson 5 Ethnology.md",
-    "HSP3U1/Unit 2 Anthropology/Lesson 4 Human Variation.md",
-    "HSP3U1/Unit 2 Anthropology/Lesson 2 Paleoanthropology.md",
-    "HSP3U1/Unit 2 Anthropology/Lesson 3 Primatology.md",
     "HRF3O1/Unit 3 Judaism/Lesson 1 Jewish beliefs and teaching.md",
     "HRF3O1/Unit 2 Buddhism/Lesson 3 Central Texts of Buddhism.md",
     "HRF3O1/Unit 1 Hinduism/Lesson 3 Caste System.md",

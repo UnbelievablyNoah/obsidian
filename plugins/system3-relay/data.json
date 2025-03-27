@@ -23,7 +23,7 @@
   "enableSyncModal": false,
   "enableDesyncPill": false,
   "enableAutomaticUpdatesOption": false,
-  "debugging": false,
+  "debugging": true,
   "enableDownloadOnAddToVault": false,
   "enableUploadOnShare": false
 }
