@@ -51364,3 +51364,15 @@ s3rn:relay:relay:384c3576-351d-4f5a-93b0-88d6016f856a:folder:b36df94f-40fd-4abd-
 Stale Tokens:
 Queue size: 0
     at at Tc.log (plugin:system3-relay:72:73914)
+[2025-04-03T17:50:30.977Z] [DEBUG] [LiveTokenStore]: check and refresh tokens
+    at at Tc.log (plugin:system3-relay:72:73914)
+[2025-04-03T17:50:30.979Z] [DEBUG] [LiveTokenStore]: Token Store Report:
+Expiry Margin: 5m
+Active Tokens:
+s3rn:relay:relay:384c3576-351d-4f5a-93b0-88d6016f856a:folder:b36df94f-40fd-4abd-8092-c65262088036:doc:6295c047-7eca-4976-9e4c-fc9ab3bf6dd1 (/Unit 3 Psychology/Unit 3 Psychology.md): 0 attempts, (expires in 6m)
+s3rn:relay:relay:384c3576-351d-4f5a-93b0-88d6016f856a:folder:b36df94f-40fd-4abd-8092-c65262088036:doc:149549cd-5820-4e40-8e7c-319151549e48 (/Unit 3 Psychology/Lesson 3.md): 0 attempts, (expires in 6m)
+s3rn:relay:relay:384c3576-351d-4f5a-93b0-88d6016f856a:folder:b36df94f-40fd-4abd-8092-c65262088036 (HSP3U1): 0 attempts, (expires in 13m)
+s3rn:relay:relay:384c3576-351d-4f5a-93b0-88d6016f856a:folder:b36df94f-40fd-4abd-8092-c65262088036:doc:2ebdc790-cef8-4658-b485-e5d68c653403 (/Unit 3 Psychology/Lesson 2 Psychoanalytical Theory.md): 0 attempts, (expires in 13m)
+Stale Tokens:
+Queue size: 0
+    at at Tc.log (plugin:system3-relay:72:73914)
