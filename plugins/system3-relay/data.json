@@ -7,7 +7,14 @@
     {
       "guid": "b36df94f-40fd-4abd-8092-c65262088036",
       "path": "HSP3U1",
-      "relay": "384c3576-351d-4f5a-93b0-88d6016f856a"
+      "relay": "384c3576-351d-4f5a-93b0-88d6016f856a",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
     }
   ],
   "enableUpdateYDocFromDiskBuffer": false,
@@ -23,6 +30,8 @@
   "enableSyncModal": false,
   "enableDesyncPill": false,
   "enableAutomaticUpdatesOption": false,
+  "enableAttachmentSync": false,
+  "enableNetworkLogging": false,
   "debugging": true,
   "enableDownloadOnAddToVault": false,
   "enableUploadOnShare": false

@@ -11,5 +11,6 @@
   "propertiesInDocument": "visible",
   "showUnsupportedFiles": true,
   "spellcheck": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "vimMode": false
 }

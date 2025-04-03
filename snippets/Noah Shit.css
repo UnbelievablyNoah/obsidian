@@ -103,3 +103,11 @@ u {
 .modal.mod-plugin-debug .startup-desc {
     color: rgb(var(--ctp-subtext0));
 }
+
+:root .cm-em.cm-strong, strong > em, em > strong {
+    color: rgb(var(--ctp-teal)) !important;
+}
+
+:root .markdown-source-view.mod-cm6 .cm-link .cm-underline, .markdown-source-view.mod-cm6 .cm-url .cm-underline, .cm-s-obsidian span.cm-formatting-link.cm-url, .cm-s-obsidian span.cm-url {
+    color: rgb(var(--ctp-pink)) !important;
+}
