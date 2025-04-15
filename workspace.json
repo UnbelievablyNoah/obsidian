@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a84c03a4c950d120",
+        "id": "2866055d68ac35db",
         "type": "tabs",
         "children": [
           {
-            "id": "8226da7ff88ea2a7",
+            "id": "14191cdc934c27ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HSP3U1/Unit 3 Psychology/Lesson 2 Psychoanalytical Theory.md",
+                "file": "HSP3U1/Unit 3 Psychology/Lesson 6 Developmental Psychology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 2 Psychoanalytical Theory"
+              "title": "Lesson 6 Developmental Psychology"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Cognitive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HSP3U1/Unit 3 Psychology/Lesson 2 Psychoanalytical Theory.md",
+                "file": "HSP3U1/Unit 3 Psychology/Lesson 5 Cognitive Psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lesson 2 Psychoanalytical Theory"
+              "title": "Backlinks for Lesson 5 Cognitive Psychology"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HSP3U1/Unit 3 Psychology/Lesson 2 Psychoanalytical Theory.md",
+                "file": "HSP3U1/Unit 3 Psychology/Lesson 5 Cognitive Psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lesson 2 Psychoanalytical Theory"
+              "title": "Outgoing links from Lesson 5 Cognitive Psychology"
             }
           },
           {
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HSP3U1/Unit 3 Psychology/Lesson 2 Psychoanalytical Theory.md",
+                "file": "HSP3U1/Unit 3 Psychology/Lesson 5 Cognitive Psychology.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lesson 2 Psychoanalytical Theory"
+              "title": "Outline of Lesson 5 Cognitive Psychology"
             }
           },
           {
@@ -164,8 +164,19 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "3a6efd2150d70f0d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -174,42 +185,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "system3-relay:Relay": false
     }
   },
-  "active": "8226da7ff88ea2a7",
+  "active": "14191cdc934c27ce",
   "lastOpenFiles": [
-    "HSP3U1/Unit 3 Psychology/Lesson 3.md",
-    "HSP3U1/Unit 3 Psychology/Lesson 2 Psychoanalytical Theory.md",
     "HSP3U1/Unit 3 Psychology/Unit 3 Psychology.md",
-    "HSP3U1/Unit 3 Psychology/Lesson 1 Introduction to Psychology.md",
-    "HSP3U1/HSP3U1.md",
-    "HSP3U1/Unit 2 Anthropology/Lesson 1 Introduction to Anthropology.md",
-    "HSP3U1/Unit 2 Anthropology/Lesson 2 Paleoanthropology.md",
+    "HSP3U1/Unit 3 Psychology/Untitled.md",
+    "HSP3U1/Unit 3 Psychology/Lesson 6 Developmental Psychology.md",
+    "HSP3U1/Unit 3 Psychology/Lesson 2 Psychoanalytic Theory.md",
+    "HSP3U1/Unit 3 Psychology/Lesson 4 Humanism.md",
+    "HSP3U1/Unit 3 Psychology/Lesson 5 Cognitive Psychology.md",
     "HSP3U1/Unit 2 Anthropology/Lesson 3 Primatology.md",
-    "HSP3U1/Unit 2 Anthropology/Lesson 4 Human Variation.md",
+    "HSP3U1/Unit 3 Psychology/Lesson 1 Introduction to Psychology.md",
+    "HSP3U1/Unit 3 Psychology/Lesson 3 Behaviourism.md",
+    "local disk",
     "HSP3U1/Unit 2 Anthropology/Lesson 9 Rites of Passage.md",
-    "HSP3U1/Unit 2 Anthropology/Lesson 10 Gender and Culture.md",
     "HSP3U1/Unit 2 Anthropology/Lesson 8 Cultural Anthropology.md",
-    "HSP3U1/Unit 2 Anthropology/Lesson 7 Archaeology.md",
-    "HRF3O1/Unit 3 Judaism/Lesson 2 Early History of Judaism.md",
-    "HRF3O1/Unit 3 Judaism/Lesson 3 Sacred Text.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 6 Linguistic Anthropology.md",
+    "HSP3U1/HOMEPAGE.canvas",
+    "HSP3U1/HSP3U1.md",
+    "HSP3U1/Unit 2 Anthropology/Unit 2 Anthropology.md",
     "HSP3U1/Unit 2 Anthropology/Unit 2 Test Review Sheet.md",
-    "HSP3U1/Unit 1 Research and Inquiry Skills/Scale Examples.pdf",
+    "HSP3U1/Unit 4 Sociology/Unit 4 Sociology.md",
+    "Chemistry/Chemistry.md",
+    "Chemistry",
+    "Untitled.canvas",
+    "SNC2D1/Unit 2 Physics/Lesson 3 Properties of Light.md",
+    "SNC2D1/Unit 2 Physics/Lesson 2 Sources of Light.md",
     "HSP3U1/Unit 1 Research and Inquiry Skills/Unit 1 Research and Inquiry Skills.md",
     "HSP3U1/Unit 1 Research and Inquiry Skills/Social Science Research Model.md",
-    "HSP3U1/Unit 2 Anthropology/Unit 2 Anthropology.md",
-    "HSP3U1/Unit 2 Anthropology/Lesson 5 Ethnology.md",
-    "HSP3U1/Unit 2 Anthropology/Lesson 6 Linguistic Anthropology.md",
-    "HSP3U1/Unit 2 Anthropology/Unit 2 Note Compile.md",
-    "HRF3O1/Unit 3 Judaism/Unit 3 Judaism.md",
-    "HRF3O1/Unit 3 Judaism/Lesson 1 Jewish beliefs and teaching.md",
-    "HSP3U1/Img/Metalheads.md",
+    "HSP3U1/Unit 1 Research and Inquiry Skills/Scale Examples.pdf",
+    "HSP3U1/Unit 2 Anthropology/Lesson 1 Introduction to Anthropology.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 2 Paleoanthropology.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 4 Human Variation.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 10 Gender and Culture.md",
+    "HSP3U1/Unit 2 Anthropology/Lesson 7 Archaeology.md",
     "HSP3U1/Img/Iceberg.png",
-    "HSP3U1/Unit 3 Psychology/Lesson 2 Psychodymanic Theory.md",
     "HRF3O1/Unit 3 Judaism",
     "HSP3U1/Img/Types of stones.png",
     "HSP3U1/Img/Map of Africa Discoveries.png",
@@ -217,12 +233,9 @@
     "HSP3U1/Img",
     "HSP3U1/Img",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "HRF3O1/Unit 1 Hinduism",
     "HRF3O1/Unit 1 Hinduism",
     "CHC2D1/Unit 1 Course Introduction",
-    "HSP3U1/Unit 4 Sociology",
-    "HSP3U1/Unit 3 Psychology",
     "-SRC/SNC2D1/Eyeball-Diagram.png",
     "-SRC/SNC2D1/Levels-of-Organization-in-Biology.png",
     "Screenshot 2024-12-05 at 10.44.04 AM.png",

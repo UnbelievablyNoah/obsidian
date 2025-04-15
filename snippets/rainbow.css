@@ -1,0 +1,155 @@
+:root {
+	--anp-rainbow-folder-bg-opacity: 1;
+  --anp-full-rainbow-text-inverted: rgb(var(--ctp-text));
+}
+
+/*===============================================================
+* RAINBOW FOLDERS
+* Author: AnubisNekhet
+* https://www.buymeacoffee.com/anubisnekhet
+*===============================================================*/
+/*---------------------------------------------------------------
+* RAIBOW FOLDER VARIABLE
+
+* --rainbow-folder-color is a raw rgb variable whose value
+* is cycled per child folder in a folder tree.
+* Applying "inherit" to every child folder excluding first-order
+* child folders results in folders "inheriting" their parent
+* folder colors.
+*---------------------------------------------------------------*/
+
+.nav-folder-children > .nav-folder:nth-child(11n + 2),
+.nav-files-container > div > .nav-folder:nth-child(11n + 2),
+[data-type="bookmarks"] .tree-item:nth-child(11n + 2) {
+	--rainbow-folder-color: var(--ctp-red);
+}
+.nav-folder-children > .nav-folder:nth-child(11n + 3),
+.nav-files-container > div > .nav-folder:nth-child(11n + 3),
+[data-type="bookmarks"] .tree-item:nth-child(11n + 3) {
+	--rainbow-folder-color: var(--ctp-maroon);
+}
+.nav-folder-children > .nav-folder:nth-child(11n + 4),
+.nav-files-container > div > .nav-folder:nth-child(11n + 4),
+[data-type="bookmarks"] .tree-item:nth-child(11n + 4) {
+	--rainbow-folder-color: var(--ctp-peach);
+}
+.nav-folder-children > .nav-folder:nth-child(11n + 5),
+.nav-files-container > div > .nav-folder:nth-child(11n + 5),
+[data-type="bookmarks"] .tree-item:nth-child(11n + 5) {
+	--rainbow-folder-color: var(--ctp-yellow);
+}
+.nav-folder-children > .nav-folder:nth-child(11n + 6),
+.nav-files-container > div > .nav-folder:nth-child(11n + 6),
+[data-type="bookmarks"] .tree-item:nth-child(11n + 6) {
+	--rainbow-folder-color: var(--ctp-green);
+}
+.nav-folder-children > .nav-folder:nth-child(11n + 7),
+.nav-files-container > div > .nav-folder:nth-child(11n + 7),
+[data-type="bookmarks"] .tree-item:nth-child(11n + 7) {
+	--rainbow-folder-color: var(--ctp-teal);
+}
+.nav-folder-children > .nav-folder:nth-child(11n + 8),
+.nav-files-container > div > .nav-folder:nth-child(11n + 8),
+[data-type="bookmarks"] .tree-item:nth-child(11n + 8) {
+	--rainbow-folder-color: var(--ctp-sky);
+}
+.nav-folder-children > .nav-folder:nth-child(11n + 9),
+.nav-files-container > div > .nav-folder:nth-child(11n + 9),
+[data-type="bookmarks"] .tree-item:nth-child(11n + 9) {
+	--rainbow-folder-color: var(--ctp-sapphire);
+}
+.nav-folder-children > .nav-folder:nth-child(11n + 10),
+.nav-files-container > div > .nav-folder:nth-child(11n + 10),
+[data-type="bookmarks"] .tree-item:nth-child(11n + 10) {
+	--rainbow-folder-color: var(--ctp-blue);
+}
+.nav-folder-children > .nav-folder:nth-child(11n + 11),
+.nav-files-container > div > .nav-folder:nth-child(11n + 11),
+[data-type="bookmarks"] .tree-item:nth-child(11n + 11) {
+	--rainbow-folder-color: var(--ctp-lavender);
+}
+.nav-folder-children > .nav-folder:nth-child(11n + 12),
+.nav-files-container > div > .nav-folder:nth-child(11n + 12),
+[data-type="bookmarks"] .tree-item:nth-child(11n + 12) {
+	--rainbow-folder-color: var(--ctp-mauve);
+}
+
+.nav-files-container .nav-folder.nav-folder .nav-folder, [data-type="bookmarks"] .tree-item .tree-item {
+	--rainbow-folder-color: inherit;
+}
+
+/*---------------------------------------------------------------
+* FULL RAINBOW STYLE
+*---------------------------------------------------------------*/
+
+.nav-files-container > div > .nav-folder .nav-folder-title,
+.nav-files-container > div > .nav-folder .nav-file-title,
+.nav-files-container .collapse-icon svg.svg-icon,
+.tree-item-self .tree-item-icon {
+	color: var(--anp-full-rainbow-text-inverted, var(--background-primary));
+	--icon-color: var(--anp-full-rainbow-text-inverted, var(--background-primary));
+}
+.nav-files-container > div > .nav-folder-children > .nav-file .nav-file-title {
+	color: var(--anp-full-rainbow-text-inverted, var(--background-primary));
+}
+.nav-files-container > .nav-folder-children > .nav-file {
+	background-color: rgba(var(--ctp-text), var(--anp-rainbow-folder-bg-opacity));
+}
+.nav-files-container > div > .nav-file {
+	background-color: rgba(var(--ctp-overlay1), var(--anp-rainbow-folder-bg-opacity));
+}
+.nav-files-container > div > .nav-file {
+	border-radius: 5px;
+	margin-bottom: 2px;
+}
+:not(.is-grabbing) .nav-files-container > div > .nav-folder .nav-folder-title:hover,
+:not(.is-grabbing) .nav-files-container > div .nav-file .nav-file-title:hover {
+	background-color: rgba(var(--ctp-base), 0.1);
+}
+:not(.is-grabbing) .nav-files-container > div > .nav-folder .nav-file-title.is-active {
+	border-color: rgba(var(--ctp-base), 0.2);
+	background-color: rgba(var(--ctp-base), 0.2);
+}
+.nav-file {
+	overflow-y: hidden;
+}
+.nav-file-title-content.is-being-renamed,
+.nav-folder-title-content.is-being-renamed {
+	cursor: text;
+	border-color: var(--interactive-accent);
+	background-color: rgba(var(--ctp-crust), 0.2);
+}
+.nav-file-title-content.is-being-renamed::selection,
+.nav-folder-title-content.is-being-renamed::selection {
+	background-color: hsla(var(--color-accent-hsl), 0.2);
+}
+.nav-file-title-content.is-being-renamed::selection {
+	background-color: rgba(var(--ctp-accent), 0.2);
+}
+.nav-files-container .nav-folder > .nav-folder-children {
+	padding: 0 5px 0 5px;
+}
+.nav-files-container > div > .nav-folder {
+	transition: background-color 0.4s;
+	background-color: rgba(var(--rainbow-folder-color), var(--anp-rainbow-folder-bg-opacity));
+	margin-bottom: 2px;
+	border-radius: 5px;
+}
+.nav-files-container > div > .nav-folder .nav-folder-children {
+	border-color: rgba(var(--ctp-crust), 0.4);
+}
+.nav-files-container > div > .nav-file.has-focus {
+	background-color: rgba(var(--ctp-text), var(--anp-rainbow-folder-bg-opacity));
+	border-left: none;
+	border-color: rgb(var(--ctp-accent));
+}
+.nav-files-container > div > .nav-file > .nav-file-title,
+.nav-files-container > div > .nav-file.has-focus > .nav-file-title {
+	margin-bottom: 0;
+}
+.nav-folder.has-focus > .nav-file-title,
+.nav-folder.has-focus > .nav-file-title:focus-within,
+.nav-folder.has-focus > .nav-folder-title,
+.nav-folder.has-focus > .nav-folder-title:focus-within {
+	box-shadow: none;
+}

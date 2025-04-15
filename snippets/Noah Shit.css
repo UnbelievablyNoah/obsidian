@@ -11,6 +11,17 @@
     --tab-width: 250px !important;
 }
 
+:root del {
+    --ctp-strikethrough: var(--ctp-peach) !important;
+    text-decoration-color: var(--ctp-peach) !important;
+    text-decoration-thickness: 2px !important;
+}
+
+:root .cm-strikethrough {
+    --ctp-strikethrough: var(--ctp-peach) !important;
+    text-decoration-thickness: 2px !important;
+}
+
 :root a {
     color: rgba(var(--ctp-red)) !important;
 }
@@ -104,10 +115,14 @@ u {
     color: rgb(var(--ctp-subtext0));
 }
 
-:root .cm-em.cm-strong, strong > em, em > strong {
-    color: rgb(var(--ctp-teal)) !important;
+:root .nav-folder > .nav-folder-children.system3-live {
+    border-inline-start-width: calc(var(--nav-indentation-guide-width) + 1px) !important;
 }
 
-:root .markdown-source-view.mod-cm6 .cm-link .cm-underline, .markdown-source-view.mod-cm6 .cm-url .cm-underline, .cm-s-obsidian span.cm-formatting-link.cm-url, .cm-s-obsidian span.cm-url {
+:root span.cm-strikethrough.cm-strong, strong > del {
     color: rgb(var(--ctp-pink)) !important;
+}
+
+:root span.cm-em.cm-strikethrough, strong > del {
+    color: rgb(var(--ctp-flamingo)) !important;
 }

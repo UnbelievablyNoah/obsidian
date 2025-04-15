@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:CHC2D1  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
       "query": "path:HRF3O1  ",
       "color": {
         "a": 1,
@@ -26,13 +19,6 @@
       "color": {
         "a": 1,
         "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:SNC2D1  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
       }
     }
   ],

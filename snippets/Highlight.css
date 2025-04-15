@@ -1,9 +1,19 @@
 :root strong > mark {
 	background-color: rgba(var(--ctp-sapphire), 0.4) !important;
+	font-weight: calc(var(--font-weight) + var(--bold-modifier) + 100) !important;
 }
 
 :root em > mark {
 	background-color: rgba(var(--ctp-green), 0.4) !important;
+}
+
+:root strong > em > mark {
+	background-color: rgba(var(--ctp-teal), 0.4) !important;
+	font-weight: calc(var(--font-weight) + var(--bold-modifier) + 50) !important;
+}
+
+:root del > mark {
+	background-color: rgba(var(--ctp-peach), 0.4) !important;
 }
 
 :root .cm-s-obsidian span.cm-formatting-highlight, .markdown-rendered mark, .cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
@@ -14,11 +24,19 @@
 	font-weight: calc(var(--font-weight) + 125) !important;
 }
 
-.cm-s-obsidian span.cm-highlight.cm-em, .cm-s-obsidian span.cm-highlight.cm-strong, strong {
+:root .cm-s-obsidian span.cm-highlight.cm-em, .cm-s-obsidian span.cm-highlight.cm-strong, strong {
 	background-color: transparent !important;
 }
 
-.cm-s-obsidian span.cm-highlight.cm-header:not(.cm-s-obsidian span.cm-highlight.cm-em, .cm-s-obsidian span.cm-highlight.cm-strong) {
+:root .cm-s-obsidian span.cm-highlight.cm-header:not(.cm-s-obsidian span.cm-highlight.cm-em, .cm-s-obsidian span.cm-highlight.cm-strong) {
 	background-image: linear-gradient(rgb(var(--ctp-red), 40%), rgb(var(--ctp-red), 60%), rgb(var(--ctp-red), 40%)) !important;
 	background-color: transparent !important;
+}
+
+:root .cm-s-obsidian span.cm-highlight.cm-strong.cm-em {
+	background-image: linear-gradient(rgb(var(--ctp-teal), 40%), rgb(var(--ctp-teal), 60%), rgb(var(--ctp-teal), 40%)) !important;
+}
+
+:root .cm-s-obsidian span.cm-highlight.cm-strikethrough {
+	background-image: linear-gradient(rgb(var(--ctp-peach), 40%), rgb(var(--ctp-peach), 60%), rgb(var(--ctp-peach), 40%)) !important;
 }

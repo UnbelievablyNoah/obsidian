@@ -10,8 +10,8 @@
 	content: "→ ";
 }
 
-.is-collapsed ~ .cm-formatting-list .list-bullet::after, li.is-collapsed .list-bullet::after {
-	color: var(--list-marker-color-collapsed);
+:root .is-collapsed ~ .cm-formatting-list .list-bullet::after, li.is-collapsed .list-bullet::after {
+	color: rgb(var(--ctp-red)) !important;
 	box-shadow: none;
 	background-color: transparent;
 }
@@ -22,20 +22,20 @@
     ul > li::marker {
         content: "→ "; /* Use arrow for first-level bullets */
         font-size: inherit;
-        color: var(--list-marker-color-collapsed);
+        color: rgb(var(--ctp-red)) !important;
     }
 
     /* Nested unordered lists (second level and deeper) */
     ul ul > li::marker {
         content: "↳ "; /* Use bent arrow for nested unordered lists */
         font-size: inherit;
-        color: var(--list-marker-color-collapsed);
+        color: rgb(var(--ctp-red)) !important;
     }
 
     /* Nested ordered lists (second level and deeper) */
     ol ol > li::marker, ul ol > li::marker, ol ul > li::marker {
         content: "↳ "; /* Use bent arrow for nested ordered lists */
         font-size: inherit;
-        color: var(--list-marker-color-collapsed);
+        color: rgb(var(--ctp-red)) !important;
     }
 }
